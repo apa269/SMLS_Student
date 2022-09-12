@@ -6,4 +6,6 @@ Dans le dossier Fiches récpitulatives, vous trouverez des fiches reprenant la t
 
 Attention, les fichiers sont mis à jours régulièrement, assurez-vous d'avoir la dernière version.
 
+Pour télécharger un fichier, il suffit de cliquer dessus, un bouton 'Download' apparait ensuite en haut à droite.
+
 Arthur Paquot
